@@ -14,7 +14,7 @@ border-style: solid ;
   border-radius: 10px;
   margin:10px;
   padding: 20px;
-  background-color:crimson;
+  background-color:aliceblue;
 }
 
 h1{
@@ -25,8 +25,17 @@ h1{
   padding: 20px;
 }
 body{
-  background-color:darkgrey;
+  background-color:Beige;
   
 img {
   border-radius: 8px;
 }
+
+#Content{
+  border-style: solid ;
+  border: 2px solid ;
+  border-radius: 10px;
+  margin:10px;
+  padding: 20px;
+}
+
